@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace TEST
 {
-    public class Class1
+    public class CC
     {
+        public static void main(String[] arg) {
+            Console.WriteLine("TESTTEST");
+        }
     }
 }
